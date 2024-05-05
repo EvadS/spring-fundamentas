@@ -14,6 +14,7 @@
         <module>jakarta-servlet</module>
         <module>javaee-servlet-demo</module>
         <module>networking-and-http</module>
+        <module>javax-servlet</module>
     </modules>
 
 

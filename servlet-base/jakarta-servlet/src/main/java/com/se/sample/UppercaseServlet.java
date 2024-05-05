@@ -22,3 +22,4 @@ public class UppercaseServlet extends HttpServlet {
         out.println(inputString);
     }
 }
+
