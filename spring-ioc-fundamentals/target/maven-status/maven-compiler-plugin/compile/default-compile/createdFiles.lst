@@ -1,0 +1,3 @@
+com\se\sample\config\DemoAppConfig.class
+com\se\sample\SpringIoCDemoApp.class
+com\se\sample\client\NasaPictureClient.class
