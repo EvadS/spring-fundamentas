@@ -8,7 +8,7 @@
   <artifactId>javax-servlet</artifactId>
   <version>1.0.0</version>
 
-  <name>javax-servlet</name>
+  <name>sample</name>
   <packaging>war</packaging>
 
 
@@ -54,6 +54,7 @@
   </dependencies>
 
   <build>
+    <finalName>sample</finalName>
     <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
